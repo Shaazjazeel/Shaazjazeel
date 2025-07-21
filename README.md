@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Me:
 🛠️ Currently working as<br>Frontend Developer (Freelance)<br><br>🤝 Open to collaborate on<br>Web projects & creative tech ideas<br><br>💛 Looking for help with<br>Scaling projects & performance optimization<br><br>🌱 Learning<br>React, AI tools, and design systems<br><br>💬 Ask me about<br>HTML, CSS, Git, or prompt engineering<br><br>⚡ Fun fact<br>I design faster than I decide what to eat
 
 
