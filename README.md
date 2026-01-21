@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Shaaz+Jazeel;Frontend+Developer;Creative+Tech+Enthusiast" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&weight=400&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Shaaz+Jazeel;AI+ML+Developer;creative+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   <p align="center">
     <b>Crafting pixel-perfect web experiences & exploring the edge of AI.</b>
   </p>
@@ -23,17 +23,16 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-
-| **🔭 Current Work** | **🌱 Learning** |
-|:---:|:---:|
-| **Frontend Developer (Freelance)**<br>_Open to creative web collaborations_ | **React, AI Tools & Design Systems**<br>_Scaling projects & performance_ |
-
-| **💬 Ask Me About** | **⚡ Fun Fact** |
-|:---:|:---:|
-| HTML, CSS, Git, Prompt Engineering | _"I design faster than I decide what to eat."_ |
-
+  <br>
+  🔭 <b>Working on:</b> Frontend Dev (Freelance)
+  &nbsp; | &nbsp;
+  🌱 <b>Learning:</b> React, AI & Design Systems
+  <br>
+  💬 <b>Ask me about:</b> HTML, CSS, Git
+  &nbsp; | &nbsp;
+  ⚡ <b>Fun Fact:</b> I design faster than I decide what to eat.
+  <br>
 </div>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -69,23 +68,23 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table style="border: none;">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shaazjazeel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shaaz's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Shaazjazeel&show_icons=true&theme=transparent&hide_border=true&title_color=33CCFF&text_color=FFFFFF&icon_color=33CCFF&text_bold=false" alt="Shaaz's Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaazjazeel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaazjazeel&layout=compact&theme=transparent&hide_border=true&title_color=33CCFF&text_color=FFFFFF&text_bold=false" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shaazjazeel&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  
+  <img src="https://streak-stats.demolab.com/?user=Shaazjazeel&theme=transparent&hide_border=true&ring=33CCFF&fire=33CCFF&currStreakLabel=33CCFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" alt="Streak Stats" />
 </div>
-
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Shaazjazeel&icon=5&color=4" alt="Profile Views" />
-  </a>
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shaazjazeel.Shaazjazeel&left_color=0D1117&right_color=33CCFF&left_text=Profile+Views" alt="visitor badge"/>
 </div>
+
